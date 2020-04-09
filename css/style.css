@@ -6,3 +6,181 @@
     center center/cover;
     height: 100vh;
 }
+.section  {
+    position: absolute;
+    top:45%;
+    left:50%;
+  
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+  
+}
+#text-para{
+    position: absolute;
+    top:68%;
+    left:50%;
+   
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    font-size: 14px;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+.welcome-heading1{
+    color:white;
+    position: absolute;
+    top:60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+#delani-icon1{
+    position: absolute;
+    top:85%;
+    left:50%;
+   
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+
+}
+.welcome-heading{
+    color:white;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+}
+.welcome-text{
+    color:white;
+    padding-top: 10px;;
+}
+#about-section{
+    height:65vh;
+}
+.about-head{
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+}
+.about-class{
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+}
+#service{
+
+    height: 80vh;
+    background: url(../image/s_image.jpg)no-repeat
+    center center/cover;
+    
+}
+.service-head{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding: 30px;
+   
+}
+
+.service-text{
+    color:white;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    text-align: center;
+}
+.services-text1{
+    color:white;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+}
+#what-we-do{
+    height: 100%;
+    padding: 5px;
+    margin-bottom: 3rem;
+    
+}
+
+.contact-heading1 {
+    padding: 30px;
+    margin-bottom: 2rem;; 
+    font-family: 'Baloo Thambi 2', cursive;
+}
+.contact-heading4{
+    color: black;
+    padding: 30px;;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+
+.service-heading{
+    font-size: 15px;;
+}
+#work-image, #work-image1 , #work-image2 , #work-image3, 
+#work-image44 , #work-image5 , #work-image6, #work-image7 {
+    width:250px;
+    padding: 8px;;
+    margin-bottom: 1rem;
+}
+#what-image2{
+  
+    padding: 8px;;
+    margin-bottom: 1rem;
+    width: 80px;
+}
+#what-image1{
+    padding: 8px;;
+    margin-bottom: 1rem;
+    width: 80px;
+}
+#contact{
+    height: 60vh;
+    background: url(../image/c_image.jpg)no-repeat
+    center center/cover;
+}
+.contact-heading{
+    text-align: center;
+    font-family: 'Baloo Thambi 2', cursive;
+    color: white;
+}
+#name{
+    color: white;
+    background: transparent;}
+
+ul.social-media{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    padding: 20px;
+}
+#social-image{
+    width: 30px;;
+    padding: 3px;;
+}
+#fotter-studio{
+    height: 15vh;
+   
+}
+.fotter-heading{
+    font-size: 14px;
+}
+
+#service-design , #service-dev , #service-pro {
+    display:none
+}
+#delani-text,
+#delani-text1,
+#delani-text2,
+#delani-text3,
+#delani-text44,
+#delani-text5,
+#delani-text6,
+#delani-text7{
+    display: none;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+}
